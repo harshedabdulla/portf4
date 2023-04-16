@@ -21,9 +21,10 @@ export default function Header({}: Props) {
             duration:1.5,
         }}
         className='flex flex-row items-center'>
-        <SocialIcon url='https://www.youtube.com/compactcoder21' fgColor='gray' bgColor='transparent' />
-        <SocialIcon url='https://www.youtube.com/compactcoder21' fgColor='gray' bgColor='transparent' />
-        <SocialIcon url='https://www.youtube.com/compactcoder21' fgColor='gray' bgColor='transparent' />     
+        <SocialIcon url='https://github.com/harshedabdulla' fgColor='gray' bgColor='transparent' />
+        <SocialIcon url='https://www.linkedin.com/in/harshed-abdulla/' fgColor='gray' bgColor='transparent' />
+        <SocialIcon url='https://twitter.com/harshedabdulla' fgColor='gray' bgColor='transparent' />  
+        <SocialIcon url='https://www.youtube.com/channel/UCT1XUFTldDyuv-BZmxZISRA' fgColor='gray' bgColor='transparent' />    
         </motion.div>
         <motion.div 
         initial={{
